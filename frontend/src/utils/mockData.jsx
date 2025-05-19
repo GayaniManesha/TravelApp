@@ -241,7 +241,7 @@ export const accommodations = [
     destinationId: "1", // Bali
     name: "Ubud Jungle Villa",
     location: "Ubud, Bali",
-    image: "https://i.postimg.cc/1RFqJHPp/170397963.jpg",
+    image: "https://i.postimg.cc/Qd6jvZX0/image.png",
     description: "Luxurious villa nestled in the lush jungles of Ubud with private pool and stunning views.",
     rating: 4.9,
     pricePerNight: 250,
