@@ -30,7 +30,7 @@ A modern and responsive travel booking and exploration app built using **React**
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/travel-app.git
+git clone https://github.com/gayanimanesha/travel-app.git
 cd travel-app
 ````
 
